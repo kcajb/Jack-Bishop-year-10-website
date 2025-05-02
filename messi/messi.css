@@ -1,1 +1,28 @@
-body {background-color: coral;}
+body {
+    background-color:black;
+}
+h1{
+    color: rgb(28, 204, 12);
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+h4{
+    color: rgb(255, 255, 255);
+}
+h5{
+    color: rgb(255, 255, 255);
+}
+h6{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 255, 255);
+}
